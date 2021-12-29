@@ -17,16 +17,6 @@ Resistance to stress and initiative are also my key skills.
 * CSS
 * JavaScript (Basic)
 * Git
-### Code Example
-**********
-```<style>
-  .absolute-position {
-    position: absolute;
-    top: 100px;
-    left: 100px;
-  }
-</style>
-  <div class="absolute-position">Блок с абсолютным позиционированием</div>```
 ### Experience
 *********
 ### Education
