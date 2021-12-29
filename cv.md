@@ -1,4 +1,5 @@
-# Jan Piatlicki
+# [https://GITHUB-USERNAME.github.io/rsschool-cv/cv] (rsschool-cv)
+## Jan Piatlicki
 ====
 Contacts
 ====
@@ -6,17 +7,17 @@ Contacts
 * **Phone:** +375 44 499-22-77
 * **Email:** janpiatlicki@gmail.com
 * **GitHub:** janbelarus
-## About Me
+### About Me
 ====
 I am quite sociable, efficient, creative young man. 
 Resistance to stress and initiative are also my key skills.
-## Skills
+### Skills
 ====
 * HTML
 * CSS
 * JavaScript (Basic)
 * Git
-## Code Example
+### Code Example
 ====
 ```
 <style>
@@ -29,14 +30,14 @@ Resistance to stress and initiative are also my key skills.
 
   <div class="absolute-position">Блок с абсолютным позиционированием</div>
 ```
-## Experience
+### Experience
 ====
-## Education
+### Education
 ====
 * **University:** BELARUS STATE ECONOMIC UNIVERSITY, Commerce and Tourism industry, Marketing major
 * **Courses:**
 + [https://ru.code-basics.com/languages/html] (HTML для начинающих)
 + [https://ru.code-basics.com/languages/css] (CSS для начинающих)
-## English
+### English
 ====
 **B1** (I had been practicing English, when I was a student at BSEU)
