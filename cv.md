@@ -1,30 +1,26 @@
-# [https://janbelarus.github.io/rsschool-cv/cv] (rsschool-cv)
-## Jan Piatlicki
+# Jan Piatlicki
 *********
-Contacts
-*********
+## Contacts
 * **Location:** Minsk, Belarus
 * **Phone:** +375 44 499-22-77
 * **Email:** janpiatlicki@gmail.com
 * **GitHub:** janbelarus
-### About Me
+## About Me
 *********
 I am quite sociable, efficient, creative young man. 
 Resistance to stress and initiative are also my key skills.
-### Skills
+## Skills
 *********
 * HTML
 * CSS
 * JavaScript (Basic)
 * Git
-### Experience
-*********
-### Education
+## Education
 *********
 * **University:** BELARUS STATE ECONOMIC UNIVERSITY, Commerce and Tourism industry, Marketing major
 * **Courses:**
-+ [https://ru.code-basics.com/languages/html] (HTML для начинающих)
-+ [https://ru.code-basics.com/languages/css] (CSS для начинающих)
-### English
++ HTML для начинающих
++ CSS для начинающих
+## English
 *********
 **B1** (I had been practicing English, when I was a student at BSEU)
