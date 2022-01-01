@@ -1,1 +1,1 @@
-# rsschool-cv
+https://janbelarus.github.io/rsschool-cv/
