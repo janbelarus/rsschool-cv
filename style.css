@@ -40,10 +40,10 @@ html {
   .nav-link {
     padding: 0 10px;
     line-height: 40px;
-    transition: .3s;
     text-decoration: none;
     color: cornflowerblue;
     font-size: 18px;
+    transition: .3s;
   }
 
   .main-container {
@@ -68,10 +68,10 @@ html {
     color: black;
   }
 
-  .link {
+  .link:hover {
     text-decoration: none;
     color: cornflowerblue;
-    font-size: 18px;
+    font-size: 150%;
   }
 
   .footer {
@@ -82,4 +82,5 @@ html {
   .round {
     border-radius: 300px;
    }
+
 
